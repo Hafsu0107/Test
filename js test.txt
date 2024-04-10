@@ -1,0 +1,67 @@
+First assigment 
+
+1 true 
+2 false
+3 false
+4 false
+5 false
+6 false
+7 true
+8 true
+9 false
+10 true
+11 true
+12 false
+13 false
+14 false
+15 true 
+16 true
+17 true
+18 false
+19 true
+20 true
+-------------------------------------------------------------------------------------------------------------------
+Second assignment 
+1 true
+2 true
+3 true
+4 true
+5 false
+6 
+7 ture
+8 false
+9 false
+10 true
+11 false
+12 true
+13 false
+14 true
+15 false
+16 false
+17 false
+18 true
+19 true
+20 true
+----------------------------------------------------------------------------------------------------------
+Assigment three
+1 true 
+2 true
+3 true
+4 true
+5 true 
+6 false
+7 true
+8 false
+9 false
+10 true
+11 true
+12 true
+13 false
+14 true
+15 false
+16 true
+17 true
+18 false
+19 true 
+20 false
+--------------------------------------------------------------------------------------------------------------------
