@@ -49,3 +49,25 @@ if (currentScore < oldScore) {
 }
 
 // Ans 6
+let number = true;
+if (number) {
+  console.log("This is EVEN");
+} else {
+  console.log("This is ODD");
+}
+
+let number = false;
+if (number) {
+  console.log("This is EVEN");
+} else {
+  console.log("This is ODD");
+}
+
+
+// Ans 7
+let carSpeed = 50;
+if (carSpeed > 60) {
+  console.log("overspeeding  krrhi hai ");
+} else {
+  console.log("overspeeding nh karrhi hai ");
+}
